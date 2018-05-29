@@ -1,0 +1,11 @@
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\obj\Debug\UXU_SoundSystem.csprojResolveAssemblyReference.cache
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\obj\Debug\UXU_SoundSystem.Form1.resources
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\obj\Debug\UXU_SoundSystem.Properties.Resources.resources
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\obj\Debug\UXU_SoundSystem.csproj.GenerateResource.Cache
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\bin\Debug\UXU_SoundSystem.exe.config
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\bin\Debug\UXU_SoundSystem.exe
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\bin\Debug\UXU_SoundSystem.pdb
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\bin\Debug\CSCore.dll
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\bin\Debug\CSCore.xml
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\obj\Debug\UXU_SoundSystem.exe
+c:\users\decaf\documents\visual studio 2017\Projects\UXU_SoundSystem\UXU_SoundSystem\obj\Debug\UXU_SoundSystem.pdb
